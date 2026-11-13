@@ -1,0 +1,8 @@
+baseURL = 'https://MyPortfolio'
+locale = 'ru-ru'
+title = 'MyPortfolio'
+theme = 'blowfish'
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
