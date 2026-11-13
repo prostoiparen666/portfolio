@@ -1,2 +1,2 @@
 запуск 
-hugo server -D
+```hugo server -D```
