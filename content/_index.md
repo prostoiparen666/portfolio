@@ -4,7 +4,7 @@ date: 2026-11-12
 draft: false
 ---
 <div style="text-align: center; width: 100%;">
-    <img src="/images/me.jpg" 
+    <img src="images/me.jpg" 
          alt="Мое фото" 
          style="display: block; margin: 0 auto 30px auto; max-width: 300px; height: auto; border-radius: 50%;">
 </div>
