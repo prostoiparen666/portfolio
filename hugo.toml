@@ -1,4 +1,4 @@
-baseURL = 'https://MyPortfolio'
+baseURL = "https://prostoiparen666.github.io/portfolio/"
 locale = 'ru-ru'
 title = 'MyPortfolio'
 theme = 'blowfish'
